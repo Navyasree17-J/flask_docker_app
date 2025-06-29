@@ -25,4 +25,4 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: navyasree1705/flask-docker-app:latest
+        tags: NavyaSree1705/flask-docker-app:latest
